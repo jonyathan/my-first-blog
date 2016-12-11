@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Dec 11 18:52:10 2016
+
+@author: John
+"""
+
+*.pyc
+__pycache__
+aula
+db.sqlite3
+.DS_Store
